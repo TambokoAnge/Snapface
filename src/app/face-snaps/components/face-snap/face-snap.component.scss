@@ -1,0 +1,31 @@
+.face-snap-card{
+  width: 47%;
+  margin: 30px auto;
+  padding: 0 10px;
+  box-shadow: lightgray 10px 10px 20px;
+  img{
+    width: 25%;
+
+  }
+  .Description{
+    display: flex;
+  }
+  p{
+    text-align: center;
+    font-weight: 300px;
+    font-size: 16px;
+    margin: auto 5px;
+  }
+  h2{
+    text-align: left;
+  }
+
+}
+
+.snapStyle {
+  background-color: rgb(24, 192, 192);
+  button{
+    background-color: rgb(182, 171, 16);
+    box-shadow: rebeccapurple 0 0 5px;
+  }
+}
